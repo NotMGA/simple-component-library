@@ -41,5 +41,5 @@
   "main": "dist/index.js",
    "module": "dist/index.js",
    "files": [ "dist", "README.md" ],
-  "repository": {    "type": "git",    "url": "URL_OF_YOUR_REPOSITORY"  }
+  "repository": {    "type": "git",    "url": "https://github.com/NotMGA/simple-component-library.git"  }
 }
